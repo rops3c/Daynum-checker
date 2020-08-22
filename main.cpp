@@ -1,5 +1,5 @@
-#include "iostream"
-using namespace std;
+#include <iostream>
+
 int main(){
 	//Writter Mohamed
 	//Date 2020-6-13 | 3:19 AM
